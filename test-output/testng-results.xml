@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29891" started-at="2019-03-22T03:45:02Z" finished-at="2019-03-22T03:45:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29891" started-at="2019-03-22T03:45:02Z" finished-at="2019-03-22T03:45:32Z">
+      <class name="faceBookTest.FabeBookLogin">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:faceBookTest.FabeBookLogin@d7b1517]" name="beforeMethod" is-config="true" duration-ms="16363" started-at="2019-03-21T21:45:02Z" finished-at="2019-03-21T21:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:faceBookTest.FabeBookLogin@d7b1517]" name="Login" duration-ms="11369" started-at="2019-03-21T21:45:18Z" finished-at="2019-03-21T21:45:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5579021004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[navi1334]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:faceBookTest.FabeBookLogin@d7b1517]" name="afterMethod" is-config="true" duration-ms="2133" started-at="2019-03-21T21:45:30Z" finished-at="2019-03-21T21:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- faceBookTest.FabeBookLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
